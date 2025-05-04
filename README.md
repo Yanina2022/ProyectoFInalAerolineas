@@ -12,7 +12,7 @@ Se debe identificar rutas y aviones más rentables, nivel de satisfacción de cl
 Desarrollo del proyecto:
 
 Stack tecnologico:
-Python , sql , Power Bi (en proceso)
+Python , sql , Power Bi 
 
 Comenzamos con la organización:
 
@@ -23,16 +23,6 @@ Utilizamos  la herramienta Jira para el seguimiento y la gestión de las tareas.
 Preparamos los datos:
 
 Para iniciar se descargo el dataset travel.sqlite, para comenzar a analizarlo se utilizo la libreria de python sqlite3 para leer el archivo  y se importaron todas las demas librerias necesarias para comenzar con el análisis, comprobamos los datos obtenidos y verificamos la existencia de datos nulos,realizamos las tablas en SQL,creamos el modelo relacional,elaboramos los procedimientos para la carga futura de datos (Automatización de la actualización de datos),validamos el acceso a la base de datos desde los diferentes dispositivos del grupo
-(en proceso)
 
-Conclusión:
-(En proceso)
-
-EDA e insights:
-
-Análisis del dashboard:
-(En proceso)
-
-Conclusión General y recomendaciones:
-
-Reflexión personal de cada integrante:
+Adjunto link de la presentacion del proyecto con hallazgos y conclusiones:
+https://www.canva.com/design/DAGTvpEwlv8/0B6Y2OFPDJGUAHOZwzoIHA/view?utm_content=DAGTvpEwlv8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc7c511707c
